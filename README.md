@@ -1,18 +1,18 @@
-# SmartPool AI
+# NexusPool
 
-SmartPool AI is an AI-powered personal and shared-finance web application built for the **PayPal AI Hackathon**.
+NexusPool is an AI-powered personal and shared-finance web application built for the **PayPal AI Hackathon**.
 
 It helps individuals, couples, and families understand where their money goes, capture financial activity with minimal effort, and make shared-money decisions with clear rules and confirmations.
 
 PayPal is the financial backbone of the application: transactions, payouts, recurring payments, payment requests, and pool operations are designed around PayPal Sandbox integrations. The AI agent interprets financial information and helps users act on it, while the backend remains responsible for authorization, validation, and money-movement rules.
 
-> **Hackathon demo:** SmartPool AI is a sandbox and demonstration project. It is not a custodial financial product and does not provide financial advice.
+> **Hackathon demo:** NexusPool is a sandbox and demonstration project. It is not a custodial financial product and does not provide financial advice.
 
 ## The problem
 
 People often do not know where their money goes because manually tracking every expense is tedious. Shared finances create an additional problem: it is difficult to keep a transparent record of who contributed, who requested money, and how shared expenses were approved.
 
-SmartPool AI addresses three connected needs:
+NexusPool addresses three connected needs:
 
 1. **Effortless capture** — record expenses by voice or scan a receipt.
 2. **Useful interpretation** — categorize movements, visualize spending, detect recurring charges, and generate recommendations.
@@ -269,7 +269,7 @@ The intended hackathon demo is shorter than three minutes:
 
 ## Hackathon scope and limitations
 
-SmartPool AI is intentionally presented as a sandbox demonstration:
+NexusPool is intentionally presented as a sandbox demonstration:
 
 - PayPal accounts and payments are test transactions.
 - Some demo history may combine Sandbox transactions with clearly identified sample data.
